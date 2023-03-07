@@ -35,7 +35,8 @@ On another teminal :
 
 ## Pages : 
 
-- Home : with the title of your app and the lead story articles
-- Article : to display a given article. If the user is connected to the application the whole content of the news is displayed. If not, only an abstract is available.
-- Register and login
+- Home : with the title of your app and the lead story articles;
+- A search page: with all the articles and a filtering feature based on tags;
+- Article : to display a given article. If the user is connected to the application the whole content of the news is displayed. If not, only an abstract is available;
+- Register and login;
 - Admin : to add or delete articles, manage tags. This page is restricted to users with an admin account.
